@@ -1,0 +1,14 @@
+{
+	"category" : "FiletreeDemo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Sample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
